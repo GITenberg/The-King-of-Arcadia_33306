@@ -1,0 +1,31 @@
+_repo: The-King-of-Arcadia_33306
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 33306-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Lynde, Francis
+    birthdate: 1856
+    deathdate: 1930
+    gutenberg_agent_id: '2626'
+    url: http://www.gutenberg.org/2009/agents/2626
+description: ''
+gutenberg_issued: '2010-07-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33306'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Rocky Mountains -- Fiction'
+- !lcsh 'Fathers and daughters -- Fiction'
+- !lcsh 'Dams -- Design and construction -- Fiction'
+- !lcsh 'Colorado -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Love stories'
+- !lcsh 'Civil engineers -- Fiction'
+title: The King of Arcadia
+url: http://www.gutenberg.org/ebooks/33306
